@@ -5,7 +5,7 @@ from aiogram.filters import Command
 import asyncio
 from itertools import islice
 
-TOKEN = "7801302292:AAHuoFG3Uy1MT9HJ8k3eP17pO39Fo_KvMgI"
+TOKEN = ""
 
 bot = Bot(TOKEN)
 
